@@ -75,7 +75,7 @@ function chartInfo (id){
  //Step 4: Display the sample metadata, the individuals dempgraphic information
     var thisMeta = data.metadata.filter((obj) => obj.id == id)[0];
     let metaData = d3.select("#sample-metadata")
-    metaData.html("")
+    metaData.html("") //this clears the previous data so it doesnt stack
     //Step 5: Display each key-value pair from the metadata json object on the page
     Object.entries(thisMeta).forEach(function ([label,value]){
         metaData.append("div").html(`<b>${label}</b> ${value}`)
