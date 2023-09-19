@@ -5,12 +5,12 @@ Module 14 Challenge
 Received help from tutor, Mark F. and instructor, Mohan G. 
 
 ## Background
-In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
+In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 ## Instructions
-Complete the following steps:
+Completed the following steps:
 
 Step 1: Use the D3 library to read in samples.json from a URL. 
 
@@ -22,4 +22,8 @@ Step 4: Display the sample metadata, i.e., an individual's demographic informati
 
 Step 5: Display each key-value pair from the metadata JSON object somewhere on the page.
 
+<<<<<<< HEAD
 Step 6: Update all the plots when a new sample is selected.
+=======
+Step 6: Update all the plots when a new sample is selected.
+>>>>>>> 1fd434697551c9a8a2dc25edb24047c507ff2777
