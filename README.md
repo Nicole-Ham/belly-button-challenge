@@ -22,8 +22,4 @@ Step 4: Display the sample metadata, i.e., an individual's demographic informati
 
 Step 5: Display each key-value pair from the metadata JSON object somewhere on the page.
 
-<<<<<<< HEAD
 Step 6: Update all the plots when a new sample is selected.
-=======
-Step 6: Update all the plots when a new sample is selected.
->>>>>>> 1fd434697551c9a8a2dc25edb24047c507ff2777
